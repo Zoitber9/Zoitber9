@@ -1,3 +1,5 @@
+### Hi there 👋
+
 📫 How to reach me:
 
 <h3 align="left">Connect with me:</h3>
@@ -15,4 +17,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 </a><a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
 </br>
+
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Zoitber9&show_icons=true&include_all_commits=true&theme=radical"      
+alt="Andrey's github stats" />
+
 
